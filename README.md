@@ -31,8 +31,3 @@ This project aims to optimize the allocation of capital among various financial 
 
 Shraddhan Singhai
 🔗 GitHub: [@Shradd7](https://github.com/Shradd7)
-
-
----
-
-Would you like me to generate a `requirements.txt` or starter `app.py` for Streamlit as well?
