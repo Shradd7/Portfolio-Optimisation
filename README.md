@@ -1,5 +1,5 @@
 
-# 📈 Portfolio-Optimisation
+#  Portfolio-Optimisation
 
 > A data-driven portfolio optimization notebook using Python, Modern Portfolio Theory, and simulation techniques.
 
@@ -27,7 +27,7 @@ This project aims to optimize the allocation of capital among various financial 
 *  Cumulative Return Plotting
 *  Custom Asset Allocation & Weight Suggestions
 
-## 🧑‍💻 Author
+##  Author
 
 Shraddhan Singhai
 🔗 GitHub: [@Shradd7](https://github.com/Shradd7)
